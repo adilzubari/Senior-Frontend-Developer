@@ -1,0 +1,19 @@
+.Common-Pin {
+    width: 50%;
+    height: 50%;
+}
+
+.PinContainer {
+    display: flex;
+    position: absolute;
+    width: 80vw;
+    height: 80vw;
+    max-width: 460px;
+    max-height: 460px;
+    transform: rotate(100deg);
+}
+
+.Pins {
+    position: absolute;
+    /* margin: ; */
+}
